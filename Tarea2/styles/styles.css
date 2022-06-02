@@ -1,0 +1,13 @@
+.well
+  	{
+  		box-shadow: 0 0 10px;
+  		padding: 35px;
+  		padding-left: 30px;
+  		margin: 3% auto;
+  		width: 450px;
+  	}
+
+  	body
+  	{
+  		background-color: #5bc0de;
+  	}
