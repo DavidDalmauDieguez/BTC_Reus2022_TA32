@@ -1,0 +1,29 @@
+.nav-link{
+    margin-left: 25px;
+}
+
+button{
+    margin-left: 5px;
+}
+
+#nav1{
+    margin-left: 50px;
+}
+
+#bannerContainer{
+    background: lightgrey;
+    width: 69%;
+    height: 34vh;
+    text-align: center;
+    vertical-align: middle;
+}
+
+h1{
+    width: 100%;
+    padding-top: 1%;
+    margin-top: 35px;
+}
+
+#textoArticuloDestacado{
+    width: 800px;
+}
