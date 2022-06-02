@@ -1,0 +1,9 @@
+.navbar-brand, .nav-link {
+    color: white;
+}
+
+.container {
+    display: inline-flex;
+    float: left;
+    margin-left: 3%;
+}
